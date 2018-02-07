@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  /* background: gray; */
+  background: URL("http://www.clker.com/cliparts/5/c/7/e/140616774997958547118166_water_underwater.jpg");
+}
